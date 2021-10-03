@@ -1,0 +1,16 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\bin\Debug\net5.0\Exercise_1.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\bin\Debug\net5.0\Exercise_1.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\bin\Debug\net5.0\Exercise_1.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\bin\Debug\net5.0\Exercise_1.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\bin\Debug\net5.0\Exercise_1.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\bin\Debug\net5.0\ref\Exercise_1.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\bin\Debug\net5.0\Exercise_1.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\obj\Debug\net5.0\Exercise_1.csproj.AssemblyReference.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\obj\Debug\net5.0\Exercise_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\obj\Debug\net5.0\Exercise_1.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\obj\Debug\net5.0\Exercise_1.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\obj\Debug\net5.0\Exercise_1.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\obj\Debug\net5.0\Exercise_1.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\obj\Debug\net5.0\ref\Exercise_1.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\obj\Debug\net5.0\Exercise_1.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Exercise_1\obj\Debug\net5.0\Exercise_1.genruntimeconfig.cache

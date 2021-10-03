@@ -1,0 +1,41 @@
+[
+  {
+    "FirstName": "Nicolae",
+    "LastName": "Cernean",
+    "Age": 21,
+    "Height": 1.8,
+    "IsMarried": false,
+    "Sex": "M",
+    "Hobbies": [
+      "Cycling",
+      "Jogging",
+      "Hiking"
+    ]
+  },
+  {
+    "FirstName": "Andrei",
+    "LastName": "Tulumb",
+    "Age": 20,
+    "Height": 1.85,
+    "IsMarried": true,
+    "Sex": "M",
+    "Hobbies": [
+      "Cycling",
+      "Jogging",
+      "Hiking"
+    ]
+  },
+  {
+    "FirstName": "Mihaela",
+    "LastName": "Guvir",
+    "Age": 19,
+    "Height": 1.6,
+    "IsMarried": true,
+    "Sex": "F",
+    "Hobbies": [
+      "Cycling",
+      "Jogging",
+      "Hiking"
+    ]
+  }
+]

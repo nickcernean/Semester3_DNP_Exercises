@@ -1,0 +1,28 @@
+﻿@page "/AddTodo"
+@using Ex2_ToDoTutorial.Data
+@using Ex2_ToDoTutorial.Models
+@inject ITodosData TodosData
+@inject NavigationManager NavigationManager
+
+<h3>AddTodo</h3>
+<EditForm Model="@newToDoItem" OnValidSubmit="@AddNewToDo">
+    <DataAnnotationsValidator></DataAnnotationsValidator>
+    <ValidationSummary></ValidationSummary>
+    <div class="form-group"> User id: <br/> <InputNumber @bind-Value="newToDoItem.UserId"/></div>
+    <div class="form-group"> Title <br/> <InputTextArea rows="4" @bind-Value="newToDoItem.Title"/></div>
+    <p class="actions"> <button class="btn btn-outline-dark" type="submit">Create</button></p>
+</EditForm>
+
+
+@code { 
+    private ToDo newToDoItem = new ToDo();
+
+    private void AddNewToDo()
+    {  
+        TodosData.AddTodo(newToDoItem);
+        NavigationManager.NavigateTo("/ToDos");
+    }
+    
+    
+    
+}

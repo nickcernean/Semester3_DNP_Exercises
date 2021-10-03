@@ -1,0 +1,55 @@
+﻿@page "/Edit/{Id:int}"
+@using Ex2_ToDoTutorial.Models
+@using Ex2_ToDoTutorial.Data
+@using ValidationSummary = Microsoft.AspNetCore.Mvc.Rendering.ValidationSummary
+@using System.Reflection
+@inject ITodosData TodosData
+@inject NavigationManager NavMgr
+<h3>Edit to do with id: @Id</h3>
+
+@if (toDoToEdit == null)
+{
+    <em>Todo not found!</em>
+}
+else
+{
+    <EditForm Model="@toDoToEdit" OnValidSubmit="@Save">
+        <DataAnnotationsValidator/>
+        <ValidationSummary/>
+        <div class="form-group">
+            User Id:<br/>
+            <InputNumber @bind-Value="toDoToEdit.UserId"></InputNumber>
+        </div>
+        <div class="form-group">
+            Title:<br/>
+            <InputTextArea rows="4" @bind-Value="toDoToEdit.Title"></InputTextArea>
+        </div>
+        <p class="actions">
+            <button class="btn btn-outline-dark" type="submit">Save</button>
+        </p>
+    </EditForm>
+}
+
+
+
+
+@code {
+
+    [Parameter]
+    public int Id { get; set; }
+
+    private ToDo toDoToEdit;
+
+    protected override async Task OnInitializedAsync()
+    {
+        toDoToEdit = TodosData.Get(Id);
+    }
+
+    private void Save()
+    {
+        TodosData.Update(toDoToEdit);
+        NavMgr.NavigateTo("/Todos");
+    }
+
+}
+

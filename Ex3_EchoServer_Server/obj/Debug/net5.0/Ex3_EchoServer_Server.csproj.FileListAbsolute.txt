@@ -1,0 +1,16 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\bin\Debug\net5.0\Ex3_EchoServer_Server.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\bin\Debug\net5.0\Ex3_EchoServer_Server.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\bin\Debug\net5.0\Ex3_EchoServer_Server.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\bin\Debug\net5.0\Ex3_EchoServer_Server.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\bin\Debug\net5.0\Ex3_EchoServer_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\bin\Debug\net5.0\ref\Ex3_EchoServer_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\bin\Debug\net5.0\Ex3_EchoServer_Server.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\obj\Debug\net5.0\Ex3_EchoServer_Server.csproj.AssemblyReference.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\obj\Debug\net5.0\Ex3_EchoServer_Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\obj\Debug\net5.0\Ex3_EchoServer_Server.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\obj\Debug\net5.0\Ex3_EchoServer_Server.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\obj\Debug\net5.0\Ex3_EchoServer_Server.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\obj\Debug\net5.0\Ex3_EchoServer_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\obj\Debug\net5.0\ref\Ex3_EchoServer_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\obj\Debug\net5.0\Ex3_EchoServer_Server.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_EchoServer_Server\obj\Debug\net5.0\Ex3_EchoServer_Server.genruntimeconfig.cache

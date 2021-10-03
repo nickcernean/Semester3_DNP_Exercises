@@ -1,0 +1,16 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\bin\Debug\net5.0\Ex2_JsonFileStorage.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\bin\Debug\net5.0\Ex2_JsonFileStorage.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\bin\Debug\net5.0\Ex2_JsonFileStorage.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\bin\Debug\net5.0\Ex2_JsonFileStorage.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\bin\Debug\net5.0\Ex2_JsonFileStorage.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\bin\Debug\net5.0\ref\Ex2_JsonFileStorage.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\bin\Debug\net5.0\Ex2_JsonFileStorage.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\obj\Debug\net5.0\Ex2_JsonFileStorage.csproj.AssemblyReference.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\obj\Debug\net5.0\Ex2_JsonFileStorage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\obj\Debug\net5.0\Ex2_JsonFileStorage.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\obj\Debug\net5.0\Ex2_JsonFileStorage.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\obj\Debug\net5.0\Ex2_JsonFileStorage.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\obj\Debug\net5.0\Ex2_JsonFileStorage.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\obj\Debug\net5.0\ref\Ex2_JsonFileStorage.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\obj\Debug\net5.0\Ex2_JsonFileStorage.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_JsonFileStorage\obj\Debug\net5.0\Ex2_JsonFileStorage.genruntimeconfig.cache

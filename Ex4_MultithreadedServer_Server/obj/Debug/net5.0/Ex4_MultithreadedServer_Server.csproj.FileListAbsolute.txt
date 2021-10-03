@@ -1,0 +1,16 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\bin\Debug\net5.0\Ex4_MultithreadedServer_Server.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\bin\Debug\net5.0\Ex4_MultithreadedServer_Server.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\bin\Debug\net5.0\Ex4_MultithreadedServer_Server.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\bin\Debug\net5.0\Ex4_MultithreadedServer_Server.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\bin\Debug\net5.0\Ex4_MultithreadedServer_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\bin\Debug\net5.0\ref\Ex4_MultithreadedServer_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\bin\Debug\net5.0\Ex4_MultithreadedServer_Server.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\obj\Debug\net5.0\Ex4_MultithreadedServer_Server.csproj.AssemblyReference.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\obj\Debug\net5.0\Ex4_MultithreadedServer_Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\obj\Debug\net5.0\Ex4_MultithreadedServer_Server.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\obj\Debug\net5.0\Ex4_MultithreadedServer_Server.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\obj\Debug\net5.0\Ex4_MultithreadedServer_Server.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\obj\Debug\net5.0\Ex4_MultithreadedServer_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\obj\Debug\net5.0\ref\Ex4_MultithreadedServer_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\obj\Debug\net5.0\Ex4_MultithreadedServer_Server.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_MultithreadedServer_Server\obj\Debug\net5.0\Ex4_MultithreadedServer_Server.genruntimeconfig.cache
