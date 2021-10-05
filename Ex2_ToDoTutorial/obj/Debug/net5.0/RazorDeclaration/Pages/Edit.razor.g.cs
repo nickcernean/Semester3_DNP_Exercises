@@ -82,6 +82,34 @@ using Ex2_ToDoTutorial.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\Pages\Edit.razor"
+using Ex2_ToDoTutorial.Models;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 3 "D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\Pages\Edit.razor"
+using Ex2_ToDoTutorial.Data;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\Pages\Edit.razor"
+using ValidationSummary = Microsoft.AspNetCore.Mvc.Rendering.ValidationSummary;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 5 "D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\Pages\Edit.razor"
+using System.Reflection;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/Edit/{Id:int}")]
     public partial class Edit : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -91,14 +119,31 @@ using Ex2_ToDoTutorial.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 4 "D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\Pages\Edit.razor"
+#line 36 "D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\Pages\Edit.razor"
        
+
     [Parameter]
-    public int Id { get; set;}
+    public int Id { get; set; }
+
+    private ToDo toDoToEdit;
+
+    protected override async Task OnInitializedAsync()
+    {
+        toDoToEdit = TodosData.Get(Id);
+    }
+
+    private void Save()
+    {
+        TodosData.Update(toDoToEdit);
+        NavMgr.NavigateTo("/Todos");
+    }
+
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavMgr { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ITodosData TodosData { get; set; }
     }
 }
 #pragma warning restore 1591
