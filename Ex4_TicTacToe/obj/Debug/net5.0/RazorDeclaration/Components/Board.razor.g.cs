@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace Ex4_TicTacToe
+namespace Ex4_TicTacToe.Components
 {
     #line hidden
     using System;
@@ -89,13 +89,68 @@ using Ex4_TicTacToe.Helpers;
 #line default
 #line hidden
 #nullable disable
-    public partial class App : Microsoft.AspNetCore.Components.ComponentBase
+#nullable restore
+#line 1 "D:\Semester3\DNP31Y\DNP_Exercises\Ex4_TicTacToe\Components\Board.razor"
+using System.Security;
+
+#line default
+#line hidden
+#nullable disable
+    public partial class Board : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 54 "D:\Semester3\DNP31Y\DNP_Exercises\Ex4_TicTacToe\Components\Board.razor"
+       
+    private char[] values = new char[9];
+    private bool xIsNext;
+
+    protected override void OnInitialized()
+    {
+        InitState();
+    }
+
+    private void PlayAgainHandler()
+    {
+        InitState();
+    }
+
+    private void InitState()
+    {
+        values = new char[9]
+        {
+            ' ', ' ', ' ',
+            ' ', ' ', ' ',
+            ' ', ' ', ' '
+        };
+        xIsNext = true;
+    }
+
+
+    private void HandleClick(int i)
+    {
+        if (values[i] != ' ')
+        {
+            return;
+        }
+        bool isGameFinished = Helper.CalculateGameStatus(values) != Helper.GameStatus.NotYetFinished;
+        if (isGameFinished)
+        {
+            return;
+        }
+        bool xToPlay = xIsNext;
+        values[i] = xToPlay ? 'X' : 'O';
+        xIsNext = !xToPlay;
+    }
+
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591

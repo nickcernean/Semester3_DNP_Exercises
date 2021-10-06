@@ -82,6 +82,13 @@ using Ex4_TicTacToe.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 11 "D:\Semester3\DNP31Y\DNP_Exercises\Ex4_TicTacToe\_Imports.razor"
+using Ex4_TicTacToe.Helpers;
+
+#line default
+#line hidden
+#nullable disable
     public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

@@ -83,6 +83,13 @@ using Ex4_TicTacToe.Shared;
 #line hidden
 #nullable disable
 #nullable restore
+#line 11 "D:\Semester3\DNP31Y\DNP_Exercises\Ex4_TicTacToe\_Imports.razor"
+using Ex4_TicTacToe.Helpers;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
 #line 3 "D:\Semester3\DNP31Y\DNP_Exercises\Ex4_TicTacToe\Pages\FetchData.razor"
 using Ex4_TicTacToe.Data;
 

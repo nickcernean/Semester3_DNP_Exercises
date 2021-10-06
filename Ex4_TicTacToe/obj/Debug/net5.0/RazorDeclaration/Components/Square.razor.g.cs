@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace Ex4_TicTacToe
+namespace Ex4_TicTacToe.Components
 {
     #line hidden
     using System;
@@ -89,13 +89,29 @@ using Ex4_TicTacToe.Helpers;
 #line default
 #line hidden
 #nullable disable
-    public partial class App : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class Square : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 21 "D:\Semester3\DNP31Y\DNP_Exercises\Ex4_TicTacToe\Components\Square.razor"
+            
+
+    [Parameter]
+    public char value { get; set; }
+
+    [Parameter]
+    public EventCallback ClickHandler { get; set; }
+
+    
+
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591
