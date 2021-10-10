@@ -8,7 +8,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
 namespace Ex4_TicTacToe
-{
+{ 
     public class Program
     {
         public static void Main(string[] args)
