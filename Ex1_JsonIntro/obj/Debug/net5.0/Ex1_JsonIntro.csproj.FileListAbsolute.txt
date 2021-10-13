@@ -1,0 +1,15 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex1_JsonIntro\bin\Debug\net5.0\Ex1_JsonIntro.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex1_JsonIntro\bin\Debug\net5.0\Ex1_JsonIntro.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex1_JsonIntro\bin\Debug\net5.0\Ex1_JsonIntro.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex1_JsonIntro\bin\Debug\net5.0\Ex1_JsonIntro.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex1_JsonIntro\bin\Debug\net5.0\Ex1_JsonIntro.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex1_JsonIntro\bin\Debug\net5.0\ref\Ex1_JsonIntro.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex1_JsonIntro\bin\Debug\net5.0\Ex1_JsonIntro.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex1_JsonIntro\obj\Debug\net5.0\Ex1_JsonIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex1_JsonIntro\obj\Debug\net5.0\Ex1_JsonIntro.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex1_JsonIntro\obj\Debug\net5.0\Ex1_JsonIntro.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex1_JsonIntro\obj\Debug\net5.0\Ex1_JsonIntro.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex1_JsonIntro\obj\Debug\net5.0\Ex1_JsonIntro.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex1_JsonIntro\obj\Debug\net5.0\ref\Ex1_JsonIntro.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex1_JsonIntro\obj\Debug\net5.0\Ex1_JsonIntro.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex1_JsonIntro\obj\Debug\net5.0\Ex1_JsonIntro.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_Time\bin\Debug\net5.0\Ex2_Time.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_Time\bin\Debug\net5.0\Ex2_Time.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_Time\bin\Debug\net5.0\Ex2_Time.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_Time\bin\Debug\net5.0\Ex2_Time.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_Time\bin\Debug\net5.0\Ex2_Time.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_Time\bin\Debug\net5.0\ref\Ex2_Time.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_Time\bin\Debug\net5.0\Ex2_Time.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_Time\obj\Debug\net5.0\Ex2_Time.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_Time\obj\Debug\net5.0\Ex2_Time.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_Time\obj\Debug\net5.0\Ex2_Time.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_Time\obj\Debug\net5.0\Ex2_Time.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_Time\obj\Debug\net5.0\Ex2_Time.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_Time\obj\Debug\net5.0\ref\Ex2_Time.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_Time\obj\Debug\net5.0\Ex2_Time.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_Time\obj\Debug\net5.0\Ex2_Time.genruntimeconfig.cache

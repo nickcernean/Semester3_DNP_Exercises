@@ -1,0 +1,15 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex5_ChatProgram_Server\bin\Debug\net5.0\Ex5_ChatProgram_Server.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex5_ChatProgram_Server\bin\Debug\net5.0\Ex5_ChatProgram_Server.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex5_ChatProgram_Server\bin\Debug\net5.0\Ex5_ChatProgram_Server.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex5_ChatProgram_Server\bin\Debug\net5.0\Ex5_ChatProgram_Server.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex5_ChatProgram_Server\bin\Debug\net5.0\Ex5_ChatProgram_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex5_ChatProgram_Server\bin\Debug\net5.0\ref\Ex5_ChatProgram_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex5_ChatProgram_Server\bin\Debug\net5.0\Ex5_ChatProgram_Server.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex5_ChatProgram_Server\obj\Debug\net5.0\Ex5_ChatProgram_Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex5_ChatProgram_Server\obj\Debug\net5.0\Ex5_ChatProgram_Server.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex5_ChatProgram_Server\obj\Debug\net5.0\Ex5_ChatProgram_Server.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex5_ChatProgram_Server\obj\Debug\net5.0\Ex5_ChatProgram_Server.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex5_ChatProgram_Server\obj\Debug\net5.0\Ex5_ChatProgram_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex5_ChatProgram_Server\obj\Debug\net5.0\ref\Ex5_ChatProgram_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex5_ChatProgram_Server\obj\Debug\net5.0\Ex5_ChatProgram_Server.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex5_ChatProgram_Server\obj\Debug\net5.0\Ex5_ChatProgram_Server.genruntimeconfig.cache

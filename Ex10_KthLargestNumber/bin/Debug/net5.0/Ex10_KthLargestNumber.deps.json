@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex10_KthLargestNumber/1.0.0": {
+        "runtime": {
+          "Ex10_KthLargestNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex10_KthLargestNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

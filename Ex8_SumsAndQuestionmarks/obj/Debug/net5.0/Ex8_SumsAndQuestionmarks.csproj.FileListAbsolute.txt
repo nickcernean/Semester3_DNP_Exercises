@@ -1,0 +1,15 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex8_SumsAndQuestionmarks\bin\Debug\net5.0\Ex8_SumsAndQuestionmarks.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex8_SumsAndQuestionmarks\bin\Debug\net5.0\Ex8_SumsAndQuestionmarks.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex8_SumsAndQuestionmarks\bin\Debug\net5.0\Ex8_SumsAndQuestionmarks.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex8_SumsAndQuestionmarks\bin\Debug\net5.0\Ex8_SumsAndQuestionmarks.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex8_SumsAndQuestionmarks\bin\Debug\net5.0\Ex8_SumsAndQuestionmarks.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex8_SumsAndQuestionmarks\bin\Debug\net5.0\ref\Ex8_SumsAndQuestionmarks.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex8_SumsAndQuestionmarks\bin\Debug\net5.0\Ex8_SumsAndQuestionmarks.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex8_SumsAndQuestionmarks\obj\Debug\net5.0\Ex8_SumsAndQuestionmarks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex8_SumsAndQuestionmarks\obj\Debug\net5.0\Ex8_SumsAndQuestionmarks.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex8_SumsAndQuestionmarks\obj\Debug\net5.0\Ex8_SumsAndQuestionmarks.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex8_SumsAndQuestionmarks\obj\Debug\net5.0\Ex8_SumsAndQuestionmarks.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex8_SumsAndQuestionmarks\obj\Debug\net5.0\Ex8_SumsAndQuestionmarks.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex8_SumsAndQuestionmarks\obj\Debug\net5.0\ref\Ex8_SumsAndQuestionmarks.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex8_SumsAndQuestionmarks\obj\Debug\net5.0\Ex8_SumsAndQuestionmarks.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex8_SumsAndQuestionmarks\obj\Debug\net5.0\Ex8_SumsAndQuestionmarks.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex11_SpellOutTheNumber/1.0.0": {
+        "runtime": {
+          "Ex11_SpellOutTheNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex11_SpellOutTheNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

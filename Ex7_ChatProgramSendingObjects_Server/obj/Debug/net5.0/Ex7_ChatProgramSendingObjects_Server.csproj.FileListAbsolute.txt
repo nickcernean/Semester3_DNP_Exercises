@@ -1,0 +1,15 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObjects_Server\bin\Debug\net5.0\Ex7_ChatProgramSendingObjects_Server.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObjects_Server\bin\Debug\net5.0\Ex7_ChatProgramSendingObjects_Server.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObjects_Server\bin\Debug\net5.0\Ex7_ChatProgramSendingObjects_Server.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObjects_Server\bin\Debug\net5.0\Ex7_ChatProgramSendingObjects_Server.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObjects_Server\bin\Debug\net5.0\Ex7_ChatProgramSendingObjects_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObjects_Server\bin\Debug\net5.0\ref\Ex7_ChatProgramSendingObjects_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObjects_Server\bin\Debug\net5.0\Ex7_ChatProgramSendingObjects_Server.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObjects_Server\obj\Debug\net5.0\Ex7_ChatProgramSendingObjects_Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObjects_Server\obj\Debug\net5.0\Ex7_ChatProgramSendingObjects_Server.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObjects_Server\obj\Debug\net5.0\Ex7_ChatProgramSendingObjects_Server.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObjects_Server\obj\Debug\net5.0\Ex7_ChatProgramSendingObjects_Server.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObjects_Server\obj\Debug\net5.0\Ex7_ChatProgramSendingObjects_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObjects_Server\obj\Debug\net5.0\ref\Ex7_ChatProgramSendingObjects_Server.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObjects_Server\obj\Debug\net5.0\Ex7_ChatProgramSendingObjects_Server.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObjects_Server\obj\Debug\net5.0\Ex7_ChatProgramSendingObjects_Server.genruntimeconfig.cache

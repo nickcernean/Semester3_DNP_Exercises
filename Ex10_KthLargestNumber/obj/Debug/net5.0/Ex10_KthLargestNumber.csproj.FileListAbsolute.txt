@@ -1,0 +1,15 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex10_KthLargestNumber\bin\Debug\net5.0\Ex10_KthLargestNumber.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex10_KthLargestNumber\bin\Debug\net5.0\Ex10_KthLargestNumber.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex10_KthLargestNumber\bin\Debug\net5.0\Ex10_KthLargestNumber.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex10_KthLargestNumber\bin\Debug\net5.0\Ex10_KthLargestNumber.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex10_KthLargestNumber\bin\Debug\net5.0\Ex10_KthLargestNumber.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex10_KthLargestNumber\bin\Debug\net5.0\ref\Ex10_KthLargestNumber.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex10_KthLargestNumber\bin\Debug\net5.0\Ex10_KthLargestNumber.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex10_KthLargestNumber\obj\Debug\net5.0\Ex10_KthLargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex10_KthLargestNumber\obj\Debug\net5.0\Ex10_KthLargestNumber.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex10_KthLargestNumber\obj\Debug\net5.0\Ex10_KthLargestNumber.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex10_KthLargestNumber\obj\Debug\net5.0\Ex10_KthLargestNumber.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex10_KthLargestNumber\obj\Debug\net5.0\Ex10_KthLargestNumber.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex10_KthLargestNumber\obj\Debug\net5.0\ref\Ex10_KthLargestNumber.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex10_KthLargestNumber\obj\Debug\net5.0\Ex10_KthLargestNumber.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex10_KthLargestNumber\obj\Debug\net5.0\Ex10_KthLargestNumber.genruntimeconfig.cache

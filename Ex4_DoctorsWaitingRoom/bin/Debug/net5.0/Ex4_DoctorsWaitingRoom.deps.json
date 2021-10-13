@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex4_DoctorsWaitingRoom/1.0.0": {
+        "runtime": {
+          "Ex4_DoctorsWaitingRoom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex4_DoctorsWaitingRoom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

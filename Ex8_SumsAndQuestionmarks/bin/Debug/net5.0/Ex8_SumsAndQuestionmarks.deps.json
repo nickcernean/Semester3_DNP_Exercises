@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex8_SumsAndQuestionmarks/1.0.0": {
+        "runtime": {
+          "Ex8_SumsAndQuestionmarks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex8_SumsAndQuestionmarks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

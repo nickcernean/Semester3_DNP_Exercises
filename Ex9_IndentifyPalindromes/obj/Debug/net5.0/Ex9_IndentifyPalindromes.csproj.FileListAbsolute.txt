@@ -1,0 +1,15 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex9_IndentifyPalindromes\bin\Debug\net5.0\Ex9_IndentifyPalindromes.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex9_IndentifyPalindromes\bin\Debug\net5.0\Ex9_IndentifyPalindromes.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex9_IndentifyPalindromes\bin\Debug\net5.0\Ex9_IndentifyPalindromes.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex9_IndentifyPalindromes\bin\Debug\net5.0\Ex9_IndentifyPalindromes.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex9_IndentifyPalindromes\bin\Debug\net5.0\Ex9_IndentifyPalindromes.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex9_IndentifyPalindromes\bin\Debug\net5.0\ref\Ex9_IndentifyPalindromes.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex9_IndentifyPalindromes\bin\Debug\net5.0\Ex9_IndentifyPalindromes.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex9_IndentifyPalindromes\obj\Debug\net5.0\Ex9_IndentifyPalindromes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex9_IndentifyPalindromes\obj\Debug\net5.0\Ex9_IndentifyPalindromes.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex9_IndentifyPalindromes\obj\Debug\net5.0\Ex9_IndentifyPalindromes.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex9_IndentifyPalindromes\obj\Debug\net5.0\Ex9_IndentifyPalindromes.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex9_IndentifyPalindromes\obj\Debug\net5.0\Ex9_IndentifyPalindromes.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex9_IndentifyPalindromes\obj\Debug\net5.0\ref\Ex9_IndentifyPalindromes.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex9_IndentifyPalindromes\obj\Debug\net5.0\Ex9_IndentifyPalindromes.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex9_IndentifyPalindromes\obj\Debug\net5.0\Ex9_IndentifyPalindromes.genruntimeconfig.cache

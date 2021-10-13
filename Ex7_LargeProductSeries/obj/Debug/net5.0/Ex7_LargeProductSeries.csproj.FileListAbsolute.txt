@@ -1,0 +1,15 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_LargeProductSeries\bin\Debug\net5.0\Ex7_LargeProductSeries.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_LargeProductSeries\bin\Debug\net5.0\Ex7_LargeProductSeries.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_LargeProductSeries\bin\Debug\net5.0\Ex7_LargeProductSeries.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_LargeProductSeries\bin\Debug\net5.0\Ex7_LargeProductSeries.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_LargeProductSeries\bin\Debug\net5.0\Ex7_LargeProductSeries.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_LargeProductSeries\bin\Debug\net5.0\ref\Ex7_LargeProductSeries.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_LargeProductSeries\bin\Debug\net5.0\Ex7_LargeProductSeries.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_LargeProductSeries\obj\Debug\net5.0\Ex7_LargeProductSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_LargeProductSeries\obj\Debug\net5.0\Ex7_LargeProductSeries.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_LargeProductSeries\obj\Debug\net5.0\Ex7_LargeProductSeries.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_LargeProductSeries\obj\Debug\net5.0\Ex7_LargeProductSeries.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_LargeProductSeries\obj\Debug\net5.0\Ex7_LargeProductSeries.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_LargeProductSeries\obj\Debug\net5.0\ref\Ex7_LargeProductSeries.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_LargeProductSeries\obj\Debug\net5.0\Ex7_LargeProductSeries.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_LargeProductSeries\obj\Debug\net5.0\Ex7_LargeProductSeries.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_DoctorsWaitingRoom\bin\Debug\net5.0\Ex4_DoctorsWaitingRoom.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_DoctorsWaitingRoom\bin\Debug\net5.0\Ex4_DoctorsWaitingRoom.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_DoctorsWaitingRoom\bin\Debug\net5.0\Ex4_DoctorsWaitingRoom.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_DoctorsWaitingRoom\bin\Debug\net5.0\Ex4_DoctorsWaitingRoom.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_DoctorsWaitingRoom\bin\Debug\net5.0\Ex4_DoctorsWaitingRoom.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_DoctorsWaitingRoom\bin\Debug\net5.0\ref\Ex4_DoctorsWaitingRoom.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_DoctorsWaitingRoom\bin\Debug\net5.0\Ex4_DoctorsWaitingRoom.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\Ex4_DoctorsWaitingRoom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\Ex4_DoctorsWaitingRoom.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\Ex4_DoctorsWaitingRoom.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\Ex4_DoctorsWaitingRoom.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\Ex4_DoctorsWaitingRoom.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\ref\Ex4_DoctorsWaitingRoom.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\Ex4_DoctorsWaitingRoom.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex4_DoctorsWaitingRoom\obj\Debug\net5.0\Ex4_DoctorsWaitingRoom.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObject_Client\bin\Debug\net5.0\Ex7_ChatProgramSendingObject_Client.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObject_Client\bin\Debug\net5.0\Ex7_ChatProgramSendingObject_Client.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObject_Client\bin\Debug\net5.0\Ex7_ChatProgramSendingObject_Client.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObject_Client\bin\Debug\net5.0\Ex7_ChatProgramSendingObject_Client.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObject_Client\bin\Debug\net5.0\Ex7_ChatProgramSendingObject_Client.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObject_Client\bin\Debug\net5.0\ref\Ex7_ChatProgramSendingObject_Client.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObject_Client\bin\Debug\net5.0\Ex7_ChatProgramSendingObject_Client.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObject_Client\obj\Debug\net5.0\Ex7_ChatProgramSendingObject_Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObject_Client\obj\Debug\net5.0\Ex7_ChatProgramSendingObject_Client.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObject_Client\obj\Debug\net5.0\Ex7_ChatProgramSendingObject_Client.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObject_Client\obj\Debug\net5.0\Ex7_ChatProgramSendingObject_Client.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObject_Client\obj\Debug\net5.0\Ex7_ChatProgramSendingObject_Client.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObject_Client\obj\Debug\net5.0\ref\Ex7_ChatProgramSendingObject_Client.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObject_Client\obj\Debug\net5.0\Ex7_ChatProgramSendingObject_Client.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex7_ChatProgramSendingObject_Client\obj\Debug\net5.0\Ex7_ChatProgramSendingObject_Client.genruntimeconfig.cache

@@ -5,7 +5,6 @@ D:\Semester3\DNP31Y\DNP_Exercises\Exercise_8\bin\Debug\net5.0\Exercise_8.runtime
 D:\Semester3\DNP31Y\DNP_Exercises\Exercise_8\bin\Debug\net5.0\Exercise_8.dll
 D:\Semester3\DNP31Y\DNP_Exercises\Exercise_8\bin\Debug\net5.0\ref\Exercise_8.dll
 D:\Semester3\DNP31Y\DNP_Exercises\Exercise_8\bin\Debug\net5.0\Exercise_8.pdb
-D:\Semester3\DNP31Y\DNP_Exercises\Exercise_8\obj\Debug\net5.0\Exercise_8.csproj.AssemblyReference.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Exercise_8\obj\Debug\net5.0\Exercise_8.GeneratedMSBuildEditorConfig.editorconfig
 D:\Semester3\DNP31Y\DNP_Exercises\Exercise_8\obj\Debug\net5.0\Exercise_8.AssemblyInfoInputs.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Exercise_8\obj\Debug\net5.0\Exercise_8.AssemblyInfo.cs

@@ -1,0 +1,15 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex12_GameQuestLogic\bin\Debug\net5.0\Ex12_GameQuestLogic.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex12_GameQuestLogic\bin\Debug\net5.0\Ex12_GameQuestLogic.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex12_GameQuestLogic\bin\Debug\net5.0\Ex12_GameQuestLogic.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex12_GameQuestLogic\bin\Debug\net5.0\Ex12_GameQuestLogic.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex12_GameQuestLogic\bin\Debug\net5.0\Ex12_GameQuestLogic.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex12_GameQuestLogic\bin\Debug\net5.0\ref\Ex12_GameQuestLogic.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex12_GameQuestLogic\bin\Debug\net5.0\Ex12_GameQuestLogic.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex12_GameQuestLogic\obj\Debug\net5.0\Ex12_GameQuestLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex12_GameQuestLogic\obj\Debug\net5.0\Ex12_GameQuestLogic.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex12_GameQuestLogic\obj\Debug\net5.0\Ex12_GameQuestLogic.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex12_GameQuestLogic\obj\Debug\net5.0\Ex12_GameQuestLogic.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex12_GameQuestLogic\obj\Debug\net5.0\Ex12_GameQuestLogic.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex12_GameQuestLogic\obj\Debug\net5.0\ref\Ex12_GameQuestLogic.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex12_GameQuestLogic\obj\Debug\net5.0\Ex12_GameQuestLogic.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex12_GameQuestLogic\obj\Debug\net5.0\Ex12_GameQuestLogic.genruntimeconfig.cache

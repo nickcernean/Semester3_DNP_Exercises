@@ -1,0 +1,15 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex6_BirdWatchers\bin\Debug\net5.0\Ex6_BirdWatchers.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex6_BirdWatchers\bin\Debug\net5.0\Ex6_BirdWatchers.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex6_BirdWatchers\bin\Debug\net5.0\Ex6_BirdWatchers.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex6_BirdWatchers\bin\Debug\net5.0\Ex6_BirdWatchers.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex6_BirdWatchers\bin\Debug\net5.0\Ex6_BirdWatchers.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex6_BirdWatchers\bin\Debug\net5.0\ref\Ex6_BirdWatchers.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex6_BirdWatchers\bin\Debug\net5.0\Ex6_BirdWatchers.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex6_BirdWatchers\obj\Debug\net5.0\Ex6_BirdWatchers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex6_BirdWatchers\obj\Debug\net5.0\Ex6_BirdWatchers.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex6_BirdWatchers\obj\Debug\net5.0\Ex6_BirdWatchers.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex6_BirdWatchers\obj\Debug\net5.0\Ex6_BirdWatchers.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex6_BirdWatchers\obj\Debug\net5.0\Ex6_BirdWatchers.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex6_BirdWatchers\obj\Debug\net5.0\ref\Ex6_BirdWatchers.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex6_BirdWatchers\obj\Debug\net5.0\Ex6_BirdWatchers.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex6_BirdWatchers\obj\Debug\net5.0\Ex6_BirdWatchers.genruntimeconfig.cache

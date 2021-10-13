@@ -1,0 +1,30 @@
+﻿@page "/AddTodo"
+@using ToDoWebClient.Data
+@using ToDoWebClient.Models
+@inject ITodosData TodosData
+@inject NavigationManager NavigationManager
+
+<h3>AddTodo</h3>
+<EditForm Model="@newToDoItem" OnValidSubmit="@AddNewToDo">
+    <DataAnnotationsValidator></DataAnnotationsValidator>
+    <ValidationSummary></ValidationSummary>
+    <div class="form-group"> User id: <br/> <InputNumber @bind-Value="newToDoItem.UserId"/></div>
+    <div class="form-group"> Title <br/> <InputTextArea rows="4" @bind-Value="newToDoItem.Title"/></div>
+    <p class="actions">
+        <button class="btn btn-outline-dark" type="submit">Create</button>
+    </p>
+</EditForm>
+
+
+@code {
+    private ToDo newToDoItem = new ToDo();
+
+    private async Task AddNewToDo()
+    {
+        await TodosData.AddTodoAsync(newToDoItem);
+        NavigationManager.NavigateTo("/ToDos");
+    }
+
+
+
+}

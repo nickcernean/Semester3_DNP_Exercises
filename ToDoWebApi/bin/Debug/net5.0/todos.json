@@ -1,0 +1,20 @@
+[
+  {
+    "UserId": 1,
+    "TodoId": 1,
+    "Title": "Do dishes",
+    "IsCompleted": false
+  },
+  {
+    "UserId": 1,
+    "TodoId": 2,
+    "Title": "Walk the dog",
+    "IsCompleted": true
+  },
+  {
+    "UserId": 1,
+    "TodoId": 3,
+    "Title": "adsa",
+    "IsCompleted": false
+  }
+]

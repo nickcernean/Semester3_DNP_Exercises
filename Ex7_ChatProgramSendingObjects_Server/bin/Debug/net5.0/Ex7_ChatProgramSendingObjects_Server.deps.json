@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex7_ChatProgramSendingObjects_Server/1.0.0": {
+        "runtime": {
+          "Ex7_ChatProgramSendingObjects_Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex7_ChatProgramSendingObjects_Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

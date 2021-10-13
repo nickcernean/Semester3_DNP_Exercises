@@ -1,5 +1,7 @@
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\bin\Debug\net5.0\appsettings.Development.json
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\bin\Debug\net5.0\appsettings.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\bin\Debug\net5.0\Data\todos.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\bin\Debug\net5.0\todos.json
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\bin\Debug\net5.0\Ex2_ToDoTutorial.StaticWebAssets.xml
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\bin\Debug\net5.0\Ex2_ToDoTutorial.exe
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\bin\Debug\net5.0\Ex2_ToDoTutorial.deps.json
@@ -10,7 +12,6 @@ D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\bin\Debug\net5.0\ref\Ex2_ToDo
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\bin\Debug\net5.0\Ex2_ToDoTutorial.pdb
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\bin\Debug\net5.0\Ex2_ToDoTutorial.Views.dll
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\bin\Debug\net5.0\Ex2_ToDoTutorial.Views.pdb
-D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTutorial.csproj.AssemblyReference.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTutorial.GeneratedMSBuildEditorConfig.editorconfig
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTutorial.AssemblyInfoInputs.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTutorial.AssemblyInfo.cs
@@ -18,6 +19,8 @@ D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTuto
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTutorial.MvcApplicationPartsAssemblyInfo.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTutorial.RazorComponent.input.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\RazorDeclaration\Pages\AddTodo.razor.g.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\RazorDeclaration\Pages\Edit.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\RazorDeclaration\Pages\Todos.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
@@ -30,6 +33,8 @@ D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTuto
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTutorial.TagHelpers.output.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTutorial.RazorCoreGenerate.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Razor\Pages\AddTodo.razor.g.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Razor\Pages\Edit.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Razor\Pages\Todos.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
@@ -54,9 +59,3 @@ D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\ref\Ex2_ToDo
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTutorial.pdb
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTutorial.genruntimeconfig.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTutorial.csproj.CopyComplete
-D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\RazorDeclaration\Pages\AddTodo.razor.g.cs
-D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Razor\Pages\AddTodo.razor.g.cs
-D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\bin\Debug\net5.0\Data\todos.json
-D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\bin\Debug\net5.0\todos.json
-D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\RazorDeclaration\Pages\Edit.razor.g.cs
-D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Razor\Pages\Edit.razor.g.cs

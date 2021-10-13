@@ -1,5 +1,6 @@
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\bin\Debug\net5.0\appsettings.Development.json
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\bin\Debug\net5.0\appsettings.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\bin\Debug\net5.0\Products.json
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\bin\Debug\net5.0\Ex3_FourthCoffee.StaticWebAssets.xml
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\bin\Debug\net5.0\Ex3_FourthCoffee.exe
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\bin\Debug\net5.0\Ex3_FourthCoffee.deps.json
@@ -18,9 +19,12 @@ D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Ex3_FourthCo
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Ex3_FourthCoffee.MvcApplicationPartsAssemblyInfo.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Ex3_FourthCoffee.RazorComponent.input.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\RazorDeclaration\Pages\About.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\RazorDeclaration\Pages\Order.razor.g.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\RazorDeclaration\Pages\OrderSuccess.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
@@ -31,9 +35,12 @@ D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Ex3_FourthCo
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Ex3_FourthCoffee.TagHelpers.output.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Ex3_FourthCoffee.RazorCoreGenerate.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Razor\Pages\About.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Razor\Pages\Order.razor.g.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Razor\Pages\OrderSuccess.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
@@ -56,10 +63,3 @@ D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\ref\Ex3_Four
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Ex3_FourthCoffee.pdb
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Ex3_FourthCoffee.genruntimeconfig.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Ex3_FourthCoffee.csproj.CopyComplete
-D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\RazorDeclaration\Pages\About.razor.g.cs
-D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Razor\Pages\About.razor.g.cs
-D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\bin\Debug\net5.0\Products.json
-D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\RazorDeclaration\Pages\Order.razor.g.cs
-D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Razor\Pages\Order.razor.g.cs
-D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\RazorDeclaration\Pages\OrderSuccess.razor.g.cs
-D:\Semester3\DNP31Y\DNP_Exercises\Ex3_FourthCoffee\obj\Debug\net5.0\Razor\Pages\OrderSuccess.razor.g.cs

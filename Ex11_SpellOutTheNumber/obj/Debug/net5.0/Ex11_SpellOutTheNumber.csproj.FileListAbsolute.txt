@@ -1,0 +1,15 @@
+D:\Semester3\DNP31Y\DNP_Exercises\Ex11_SpellOutTheNumber\bin\Debug\net5.0\Ex11_SpellOutTheNumber.exe
+D:\Semester3\DNP31Y\DNP_Exercises\Ex11_SpellOutTheNumber\bin\Debug\net5.0\Ex11_SpellOutTheNumber.deps.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex11_SpellOutTheNumber\bin\Debug\net5.0\Ex11_SpellOutTheNumber.runtimeconfig.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex11_SpellOutTheNumber\bin\Debug\net5.0\Ex11_SpellOutTheNumber.runtimeconfig.dev.json
+D:\Semester3\DNP31Y\DNP_Exercises\Ex11_SpellOutTheNumber\bin\Debug\net5.0\Ex11_SpellOutTheNumber.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex11_SpellOutTheNumber\bin\Debug\net5.0\ref\Ex11_SpellOutTheNumber.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex11_SpellOutTheNumber\bin\Debug\net5.0\Ex11_SpellOutTheNumber.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex11_SpellOutTheNumber\obj\Debug\net5.0\Ex11_SpellOutTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester3\DNP31Y\DNP_Exercises\Ex11_SpellOutTheNumber\obj\Debug\net5.0\Ex11_SpellOutTheNumber.AssemblyInfoInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex11_SpellOutTheNumber\obj\Debug\net5.0\Ex11_SpellOutTheNumber.AssemblyInfo.cs
+D:\Semester3\DNP31Y\DNP_Exercises\Ex11_SpellOutTheNumber\obj\Debug\net5.0\Ex11_SpellOutTheNumber.csproj.CoreCompileInputs.cache
+D:\Semester3\DNP31Y\DNP_Exercises\Ex11_SpellOutTheNumber\obj\Debug\net5.0\Ex11_SpellOutTheNumber.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex11_SpellOutTheNumber\obj\Debug\net5.0\ref\Ex11_SpellOutTheNumber.dll
+D:\Semester3\DNP31Y\DNP_Exercises\Ex11_SpellOutTheNumber\obj\Debug\net5.0\Ex11_SpellOutTheNumber.pdb
+D:\Semester3\DNP31Y\DNP_Exercises\Ex11_SpellOutTheNumber\obj\Debug\net5.0\Ex11_SpellOutTheNumber.genruntimeconfig.cache

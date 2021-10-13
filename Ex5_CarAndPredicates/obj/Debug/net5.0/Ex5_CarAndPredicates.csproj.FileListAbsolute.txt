@@ -5,7 +5,6 @@ D:\Semester3\DNP31Y\DNP_Exercises\Ex5_CarAndPredicates\bin\Debug\net5.0\Ex5_CarA
 D:\Semester3\DNP31Y\DNP_Exercises\Ex5_CarAndPredicates\bin\Debug\net5.0\Ex5_CarAndPredicates.dll
 D:\Semester3\DNP31Y\DNP_Exercises\Ex5_CarAndPredicates\bin\Debug\net5.0\ref\Ex5_CarAndPredicates.dll
 D:\Semester3\DNP31Y\DNP_Exercises\Ex5_CarAndPredicates\bin\Debug\net5.0\Ex5_CarAndPredicates.pdb
-D:\Semester3\DNP31Y\DNP_Exercises\Ex5_CarAndPredicates\obj\Debug\net5.0\Ex5_CarAndPredicates.csproj.AssemblyReference.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Ex5_CarAndPredicates\obj\Debug\net5.0\Ex5_CarAndPredicates.GeneratedMSBuildEditorConfig.editorconfig
 D:\Semester3\DNP31Y\DNP_Exercises\Ex5_CarAndPredicates\obj\Debug\net5.0\Ex5_CarAndPredicates.AssemblyInfoInputs.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Ex5_CarAndPredicates\obj\Debug\net5.0\Ex5_CarAndPredicates.AssemblyInfo.cs
