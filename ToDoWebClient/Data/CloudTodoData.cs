@@ -27,13 +27,15 @@ namespace ToDoWebClient.Data
             Task<string> stringAsync = client.GetStringAsync(uri + "/todos");
             string message = await stringAsync;
             List<ToDo> result = JsonSerializer.Deserialize<List<ToDo>>(message);
+            Console.WriteLine(message);
             toDoList = result;
-            return result;
+            return toDoList;
         }
 
         public async Task AddTodoAsync(ToDo todo)
         {
             string todoAsJson = JsonSerializer.Serialize(todo);
+            Console.WriteLine();
             HttpContent content = new StringContent(todoAsJson, Encoding.UTF8, "application/json");
             await client.PostAsync(uri + "/todos", content);
         }

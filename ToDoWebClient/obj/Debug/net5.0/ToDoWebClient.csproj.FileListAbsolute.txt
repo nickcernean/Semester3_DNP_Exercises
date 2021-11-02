@@ -10,7 +10,6 @@ D:\Semester3\DNP31Y\DNP_Exercises\ToDoWebClient\bin\Debug\net5.0\ref\ToDoWebClie
 D:\Semester3\DNP31Y\DNP_Exercises\ToDoWebClient\bin\Debug\net5.0\ToDoWebClient.pdb
 D:\Semester3\DNP31Y\DNP_Exercises\ToDoWebClient\bin\Debug\net5.0\ToDoWebClient.Views.dll
 D:\Semester3\DNP31Y\DNP_Exercises\ToDoWebClient\bin\Debug\net5.0\ToDoWebClient.Views.pdb
-D:\Semester3\DNP31Y\DNP_Exercises\ToDoWebClient\obj\Debug\net5.0\ToDoWebClient.csproj.AssemblyReference.cache
 D:\Semester3\DNP31Y\DNP_Exercises\ToDoWebClient\obj\Debug\net5.0\ToDoWebClient.GeneratedMSBuildEditorConfig.editorconfig
 D:\Semester3\DNP31Y\DNP_Exercises\ToDoWebClient\obj\Debug\net5.0\ToDoWebClient.AssemblyInfoInputs.cache
 D:\Semester3\DNP31Y\DNP_Exercises\ToDoWebClient\obj\Debug\net5.0\ToDoWebClient.AssemblyInfo.cs
@@ -58,3 +57,4 @@ D:\Semester3\DNP31Y\DNP_Exercises\ToDoWebClient\obj\Debug\net5.0\ToDoWebClient.g
 D:\Semester3\DNP31Y\DNP_Exercises\ToDoWebClient\obj\Debug\net5.0\ToDoWebClient.csproj.CopyComplete
 D:\Semester3\DNP31Y\DNP_Exercises\ToDoWebClient\obj\Debug\net5.0\RazorDeclaration\Pages\Edit.razor.g.cs
 D:\Semester3\DNP31Y\DNP_Exercises\ToDoWebClient\obj\Debug\net5.0\Razor\Pages\Edit.razor.g.cs
+D:\Semester3\DNP31Y\DNP_Exercises\ToDoWebClient\obj\Debug\net5.0\ToDoWebClient.csproj.AssemblyReference.cache

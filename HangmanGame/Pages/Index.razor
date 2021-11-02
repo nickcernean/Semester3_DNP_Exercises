@@ -1,0 +1,19 @@
+@page "/"
+@using HangmanGame.CloudData
+@using System.Diagnostics.Eventing.Reader
+@inject CloudController _controller
+<h5>Hangman Game</h5>
+
+<p>@updatedWord</p>
+<button class="btn-primary" @onclick="GetNewWord">Restart</button>
+
+@code
+{
+    private string updatedWord;
+
+    private async void GetNewWord()
+    {
+        updatedWord = await _controller.GetWord();
+    }
+
+}

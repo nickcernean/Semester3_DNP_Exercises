@@ -59,3 +59,4 @@ D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\ref\Ex2_ToDo
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTutorial.pdb
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTutorial.genruntimeconfig.cache
 D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTutorial.csproj.CopyComplete
+D:\Semester3\DNP31Y\DNP_Exercises\Ex2_ToDoTutorial\obj\Debug\net5.0\Ex2_ToDoTutorial.csproj.AssemblyReference.cache
