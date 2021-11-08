@@ -1,4 +1,25 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	
 	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">C:\Program Files\dotnet\sdk\5.0.401\MSBuild.dll</s:String>
-	<s:Int64 x:Key="/Default/Environment/Hierarchy/Build/BuildTool/MsbuildVersion/@EntryValue">1048576</s:Int64></wpf:ResourceDictionary>
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/Build/BuildTool/MsbuildVersion/@EntryValue">1048576</s:Int64>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7dfe6073_002Db274_002D4f92_002D9b3e_002Dbb8cec4a9ec1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="NumberOfAdults" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.NumberOfAdults&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.HowManyFamiliesLiveAt&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.HowManyFamiliesHaveOneParent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.HowManyFamiliesLiveInNumberThreeOrFive&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.HowManyFamiliesHaveADog&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.HowManyFamiliesHaveCatAndDog&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.HowManyFamiliesHave3Children&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.How_Many_Families_Have_Gay_Parents&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.How_Many_Families_Have_An_Adult_With_Red_Hair&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.How_Many_Families_Have_2_Pets&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.How_Many_Families_Have_A_Child_Playing_Soccer&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.How_Many_Families_Have_Adult_And_Child_With_Black_Hair&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.How_Many_Families_Have_A_Child_With_Black_Hair_Playing_Ultimate&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.HowManyFamiliesHaveTwoAdultsWithSameHairColor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.HowManyFamiliesHaveAChildWithAHamster&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.HowManyChildrenAreInterestedInBothSoccerAndBarbies&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::47AA1FED-21A5-43F9-ADC0-B98490AF7D11::net5.0::LINQTraining.Exercises.HowManyChildrenAreOfHeightBetween95And112&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
