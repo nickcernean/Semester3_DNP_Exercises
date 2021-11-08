@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using HangmanGame.Data;
+
 
 namespace HangmanGame
 {
@@ -29,7 +29,6 @@ namespace HangmanGame
         {
             services.AddRazorPages();
             services.AddServerSideBlazor();
-            services.AddSingleton<WeatherForecastService>();
             services.AddSingleton<CloudController>();
         }
 

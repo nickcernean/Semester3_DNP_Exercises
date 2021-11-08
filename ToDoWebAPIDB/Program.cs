@@ -15,7 +15,7 @@ namespace TodoWEBAPIDB
     {
         public static void Main(string[] args)
         {
-            CreateHostBuilder(args).Build().Run();
+           
 
             using (TodoContext todoContext = new TodoContext())
             {
@@ -51,7 +51,7 @@ namespace TodoWEBAPIDB
                 }
 
                 Todo todo = new Todo
-                {
+                {   
                     UserId = r.Next(0, 10) + 1,
                     IsCompleted = r.Next(0, 2) == 0,
                     Title = title.Trim()

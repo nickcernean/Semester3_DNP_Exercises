@@ -90,7 +90,7 @@ using HangmanGame.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "D:\Semester3\DNP31Y\DNP_Exercises\HangmanGame\Shared\NavMenu.razor"
+#line 18 "D:\Semester3\DNP31Y\DNP_Exercises\HangmanGame\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

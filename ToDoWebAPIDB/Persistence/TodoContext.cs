@@ -13,9 +13,9 @@ namespace TodoWEBAPIDB.Persistence
             optionsBuilder.UseSqlite("Data source=Todos.db");
         }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.ApplyConfiguration(new TodoConfiguration());
-        }
+        // protected override void OnModelCreating(ModelBuilder modelBuilder)
+        // {
+        //     modelBuilder.ApplyConfiguration(new TodoConfiguration());
+        // }
     }
 }

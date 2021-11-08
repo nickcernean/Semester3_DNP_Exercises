@@ -96,6 +96,20 @@ using System.Diagnostics.Eventing.Reader;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 4 "D:\Semester3\DNP31Y\DNP_Exercises\HangmanGame\Pages\Index.razor"
+using System.Globalization;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 5 "D:\Semester3\DNP31Y\DNP_Exercises\HangmanGame\Pages\Index.razor"
+using System.Text.Json;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -105,13 +119,50 @@ using System.Diagnostics.Eventing.Reader;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 11 "D:\Semester3\DNP31Y\DNP_Exercises\HangmanGame\Pages\Index.razor"
+#line 17 "D:\Semester3\DNP31Y\DNP_Exercises\HangmanGame\Pages\Index.razor"
  
     private string updatedWord;
+    private string inputWord;
+    private string huinea;
+    public string NewWord;
 
-    private async void GetNewWord()
+
+    protected override async Task OnInitializedAsync()
     {
-        updatedWord = await _controller.GetWord();
+        NewWord = await _controller.GetWord();
+    }
+
+    public async void UpdateWord()
+    {
+        NewWord = await _controller.GetWord();
+        huinea = RandomLettersGenerator();
+    }
+
+    public string CheckWord(string word)
+    {
+        if (NewWord.Contains(word))
+        {
+            return word;
+        }
+
+        return null;
+    }
+
+    public string RandomLettersGenerator()
+    {
+        string returnValue = null;
+        Random random = new Random();
+
+        int loopRange = 10 + NewWord.Length;
+        char[] charword = NewWord.ToCharArray();
+        for (int i = 0; i <= loopRange; i++)
+        {
+            int ascii_index = random.Next(65, 91);
+            char myRandomChar = Convert.ToChar(ascii_index);
+            returnValue += myRandomChar;
+            returnValue += charword[random.Next(0, NewWord.Length)];
+        }
+        return returnValue;
     }
 
 
